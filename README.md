@@ -1,3 +1,6 @@
 ### Software Engineering for Machine Learning: Characterizing and Detecting Mismatch in Machine-Learning Systems
 
 - This [article](https://insights.sei.cmu.edu/blog/software-engineering-for-machine-learning-characterizing-and-detecting-mismatch-in-machine-learning-systems/) talks about the importance of testing and integration of ML with software engineering as we see an increasing interest in integrating ML or AI algorithms into the softwares. Since ML or AI algorithms might use a different structure such as use of data and programming language, the integration task requires solutions to resolve mismatch issues.
+
+### Comment By Hannah Liang:
+I think the key takeaway is the need for specialized techniques to address these mismatches. These could include robust testing frameworks for ML models, ensuring that the algorithms perform as expected in a production environment, as well as integration strategies that align with the requirements of the software engineering lifecycle. Such approaches ensure that the system remains maintainable, scalable, and reliable.
